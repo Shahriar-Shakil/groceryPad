@@ -1,0 +1,461 @@
+{
+  "products": {
+    "baby_care": {
+      "newborn_essentials": {
+        "items": [
+          {
+            "product_id": 1,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/supermom-baby-diaper-belt-s-new-born-8-kg-28-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52507&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/molfix-baby-diaper-belt-1-new-born-2-5-kg-44-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56343&q=best&v=1&w=600&webp=1",
+            "productz_name": "SUPERMOM Baby Diaper Belt S New Born-8 kg",
+            "quantity": "28 pcs",
+            "origin": "Turkey",
+            "description": "Molfix baby diapers are produced with utmost care, they are extremely gentle on your baby's sensitive skin, and their green absorbent layer provides perfect dryness while the outer surface of the diaper protects the skin. Thanks to water-resistant barriers that prevent leaks, Molfix gives babies full protection and keeps their skin dry and healthy around the clock.",
+            "price": 675,
+            "off": true,
+            "total_off": 17,
+            "available_item": 15
+          },
+          {
+            "product_id": 2,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/supermom-baby-diaper-belt-s-new-born-8-kg-28-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52507&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/molfix-baby-diaper-belt-1-new-born-2-5-kg-44-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56343&q=best&v=1&w=600&webp=1",
+            "productz_name": "SUPERMOM Baby Diaper Belt S New Born-8 kg",
+            "quantity": "28 pcs",
+            "origin": "Turkey",
+            "description": "Molfix baby diapers are produced with utmost care, they are extremely gentle on your baby's sensitive skin, and their green absorbent layer provides perfect dryness while the outer surface of the diaper protects the skin. Thanks to water-resistant barriers that prevent leaks, Molfix gives babies full protection and keeps their skin dry and healthy around the clock.",
+            "price": 675,
+            "off": true,
+            "total_off": 17,
+            "available_item": 15
+          },
+          {
+            "product_id": 3,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54364&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54364&q=low&v=1&w=600&webp=1",
+            "productz_name": "Clariss Baby Wipes (Sensitive)",
+            "quantity": "120 pcs",
+            "origin": "Turkey",
+            "description": "",
+            "price": 220,
+            "off": true,
+            "total_off": 17,
+            "available_item": 15
+          },
+          {
+            "product_id": 4,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/clariss-baby-wipes-ultra-soft-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54365&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/clariss-baby-wipes-ultra-soft-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54365&q=low&v=1&w=600&webp=1",
+            "productz_name": "Clariss Baby Wipes (Ultra Soft)",
+            "quantity": "120 pcs",
+            "origin": "Turkey",
+            "description": "",
+            "price": 220,
+            "off": false,
+            "total_off": 17,
+            "available_item": 15
+          },
+          {
+            "product_id": 5,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/pur-baby-new-born-feeder-s-70-ml-r6506?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59878&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/pur-baby-new-born-feeder-s-70-ml-r6506?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59878&q=low&v=1&w=600&webp=1",
+            "productz_name": "Pur Baby New Born Feeder S 70 ml (R.6506)",
+            "quantity": "",
+            "origin": "Thailand",
+            "description": "",
+            "price": 208,
+            "off": false,
+            "total_off": 17,
+            "available_item": 15
+          },
+          {
+            "product_id": 6,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/nannys-baby-diaper-belt-1-new-born-2-5-kg-44-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23468&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/nannys-baby-diaper-belt-1-new-born-2-5-kg-44-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23468&q=low&v=1&w=600&webp=1",
+            "productz_name": "Nannys Baby Diaper Belt 1 New Born 2-5 kg",
+            "quantity": "44 pcs",
+            "origin": "Cyprus",
+            "description": "",
+            "price": 1255,
+            "off": true,
+            "total_off": 32,
+            "available_item": 10
+          },
+          {
+            "product_id": 7,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/angel-silicon-nipple-0-3-months-s-1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30416&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/nannys-baby-diaper-belt-1-new-born-2-5-kg-44-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23468&q=low&v=1&w=600&webp=1",
+            "productz_name": "Angel Silicon Nipple (0-3 Months) S",
+            "quantity": "each",
+            "origin": "Thailand",
+            "description": "",
+            "price": 50,
+            "off": false,
+            "total_off": 32,
+            "available_item": 100
+          }
+        ],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/newborn-essentials?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59657&q=best&v=1&m=250&webp=1"
+      },
+      "diapers_wipes": {
+        "products_logo": "https://cdn.chaldal.net/_mpimage/diapers-wipes?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28461&q=good&v=1&m=250&webp=1",
+        "items": [
+          {
+            "product_id": 8,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/pozzy-baby-wet-towel-wipes-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25602&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/pozzy-baby-wet-towel-wipes-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25602&q=low&v=1&w=600&webp=1",
+            "productz_name": "Pozzy Baby Wet Towel Wipes",
+            "quantity": "120 pcs",
+            "origin": "Thailand",
+            "description": "",
+            "price": 210,
+            "off": false,
+            "total_off": 32,
+            "available_item": 100
+          },
+          {
+            "product_id": 9,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/neocare-baby-wipes-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43009&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/pozzy-baby-wet-towel-wipes-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25602&q=low&v=1&w=600&webp=1",
+            "productz_name": "NeoCare Baby Wipes",
+            "quantity": "120 pcs",
+            "origin": "Bangladesh",
+            "description": "",
+            "price": 200,
+            "off": false,
+            "total_off": 32,
+            "available_item": 100
+          },
+          {
+            "product_id": 10,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59779&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/pozzy-baby-wet-towel-wipes-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25602&q=low&v=1&w=600&webp=1",
+            "productz_name": "Bashundhara Baby Wipes",
+            "quantity": "120 pcs",
+            "origin": "Bangladesh",
+            "description": "",
+            "price": 180,
+            "off": true,
+            "total_off": 16,
+            "available_item": 100
+          }
+        ]
+      }
+    },
+    "pet_care": {
+      "kitten_food": {
+        "products_logo": "https://cdn.chaldal.net/_mpimage/kitten-food?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31731&q=best&v=1&m=250&webp=1",
+        "items": [
+          {
+            "product_id": 11,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/versele-laga-lara-junior-cat-food-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36970&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/versele-laga-lara-junior-cat-food-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36970&q=low&v=1&w=600&webp=1",
+            "productz_name": "Versele Laga Lara Junior Cat Food",
+            "quantity": "2 kg",
+            "origin": "",
+            "description": "Delicious chunks with chicken for kittensWith Lara Junior’s crispy chunks, your naughty kitten will visibly enjoy the delicious flavour of chicken.",
+            "price": 180,
+            "off": false,
+            "total_off": 16,
+            "available_item": 100
+          },
+          {
+            "product_id": 12,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/drools-kitten-ocean-fish-free-container-12-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60689&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/versele-laga-lara-junior-cat-food-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36970&q=low&v=1&w=600&webp=1",
+            "productz_name": "Drools Kitten Ocean Fish (Free Container)",
+            "quantity": "1.2 kg",
+            "origin": "India",
+            "description": "",
+            "price": 600,
+            "off": false,
+            "total_off": 16,
+            "available_item": 100
+          }
+        ]
+      },
+      "dog_food": {
+        "items": [
+          {
+            "product_id": 13,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/korn-jerky-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54065&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/korn-jerky-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54065&q=low&v=1&w=600&webp=1",
+            "productz_name": "Korn Jerky",
+            "quantity": "50 gm",
+            "origin": "India",
+            "description": "",
+            "price": 200,
+            "off": false,
+            "total_off": 16,
+            "available_item": 100
+          },
+          {
+            "product_id": 14,
+            "img_thumb": "https://cdn.chaldal.net/_mpimage/korn-jerky-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54065&q=low&v=1&m=400&w=200&webp=1",
+            "img_url": "https://cdn.chaldal.net/_mpimage/korn-jerky-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54065&q=low&v=1&w=600&webp=1",
+            "productz_name": "Drools Adult Dog Food Chicken And Egg",
+            "quantity": "10 kg",
+            "origin": "",
+            "description": "Slobbers chicken and egg is uncommonly planned for developing pups and grown-ups. It contains genuine chicken as number 1 fixing to manufacture and keep up slender bulk for top body condition. Wit",
+            "price": 2500,
+            "off": false,
+            "total_off": 16,
+            "available_item": 100
+          }
+        ],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/dog-food?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28784&q=low&v=1&m=250&webp=1"
+      }
+    },
+    "food": {
+      "fruits_vegetables": {
+        "fresh_fruits": {
+          "items": [
+            {
+              "product_id": 15,
+              "img_thumb": "https://cdn.chaldal.net/_mpimage/malta-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28590&q=low&v=1&m=400&w=200&webp=1",
+              "img_url": "https://cdn.chaldal.net/_mpimage/malta-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28590&q=low&v=1&w=600&webp=1",
+              "productz_name": "Malta (Net Weight ± 50 gm)",
+              "quantity": "1 kg",
+              "origin": "",
+              "description": "Malta, a variety of orange, is a popular citrus fruit cultivated in hot climate. The fruit is rich in mineral salts and other ingredients of nutritive value such as iron, lime, phosphorus, and vital minerals. Malta is loaded with vitamin C and vitamin B complex. It is a round-shaped, medium-sized fruit, weighting an average of 145.8 gm. It has a rough-surfaced orange ringed with a segment of around 9.67 centimeters and a sweet-tasting juice content of around 33.7 per cent. The fruit is often used to make processed juice, jam, jelly and marmalade.",
+              "price": 259,
+              "off": true,
+              "total_off": 8,
+              "available_item": 100
+            },
+            {
+              "product_id": 16,
+              "img_thumb": "https://cdn.chaldal.net/_mpimage/pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34715&q=low&v=1&m=400&w=200&webp=1",
+              "img_url": "https://cdn.chaldal.net/_mpimage/pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34715&q=low&v=1&w=600&webp=1",
+              "productz_name": "Pineapple",
+              "quantity": "each",
+              "origin": "",
+              "description": "Pineapples are one of the most popular tropical fruits in the world.Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals and vitamins that are essential for optimum health. Fresh pineapples contain 50 calories per 100 grams, which amounts to only 83 calories per cup (165 grams). They consist of water (86%) and carbs (13%), with almost no protein or fat.The oval to cylindrical-shaped, compound fruit develops from many small fruits fused together. It is both juicy and fleshy with the stem serving as the fibrous core. The tough, waxy rind may be dark green, yellow, orange-yellow or reddish when the fruit is ripe. The flesh ranges from nearly white to yellow. In size the fruits are up to 12 inches long and weight 1 to 10 pounds or more. Pineapples are delicious when consumed fresh, but they can also be enjoyed as juice, dried, canned, or as an ingredient in various recipes.",
+              "price": 50,
+              "off": false,
+              "total_off": 8,
+              "available_item": 100
+            },
+            {
+              "product_id": 17,
+              "img_thumb": "https://cdn.chaldal.net/_mpimage/pomegranate-net-weight-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28589&q=low&v=1&m=400&w=200&webp=1",
+              "img_url": "https://cdn.chaldal.net/_mpimage/pomegranate-net-weight-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28589&q=low&v=1&w=600&webp=1",
+              "productz_name": "Pomegranate (Net Weight ± 50 gm)",
+              "quantity": "700 gm",
+              "origin": "",
+              "description": "Pomegranate fruit is one of the most popular, nutritionally rich fruit with unique flavor, taste, and health promoting characteristics. The fruit is moderate in calories, holds about 83 calories per 100 grams; slightly more than that of in the apples. It contains no cholesterol or saturated fats. It is a good source of soluble and insoluble dietary fibers; providing about 4 grams per 100 g (about 12% of RDA). Dietary fiber aid in smooth digestion and bowel movements. The fruit is an also good source of antioxidant vitamin-C, provides about 17% per 100 g of daily requirement. Consumption of fruits rich in vitamin C helps the body develop resistance against infectious agents by boosting immunity. Pomegranate seeds make an attractive garnish on salads and dishes and fresh fruits make fantastic refreshing juice. Pomegranate juice can be employed to prepare soups, jellies, sorbets, sauces as well as to flavor cakes, baked apples and other desserts.",
+              "price": 249,
+              "off": false,
+              "total_off": 8,
+              "available_item": 100
+            }
+          ],
+          "products_logo": "https://cdn.chaldal.net/_mpimage/fresh-fruits?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29185&q=low&v=1&m=250&webp=1"
+        },
+        "fresh_vegetables": {
+          "products_logo": "https://cdn.chaldal.net/_mpimage/fresh-vegetables?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23773&q=low&v=1&m=250&webp=1",
+          "items": [
+            {
+              "product_id": 18,
+              "img_thumb": "https://cdn.chaldal.net/_mpimage/red-tomato-net-weight-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44732&q=low&v=1&m=400&w=200&webp=1",
+              "img_url": "https://cdn.chaldal.net/_mpimage/red-tomato-net-weight-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44732&q=low&v=1&w=600&webp=1",
+              "productz_name": "Red Tomato (Net Weight ± 10 gm)",
+              "quantity": "500 gm",
+              "origin": "",
+              "description": "The tomato is consumed in diverse ways, including raw, as an ingredient in many dishes, sauces, salads, and drinks. While it is botanically a fruit, it is considered a vegetable for culinary purposes. The fruit is rich in lycopene, which may have beneficial health effects.",
+              "price": 45,
+              "off": false,
+              "total_off": 8,
+              "available_item": 100
+            },
+            {
+              "product_id": 19,
+              "img_thumb": "https://cdn.chaldal.net/_mpimage/carrot-net-weight-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28963&q=low&v=1&m=400&w=200&webp=1",
+              "img_url": "https://cdn.chaldal.net/_mpimage/carrot-net-weight-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28963&q=low&v=1&w=600&webp=1",
+              "productz_name": "Carrot (Net Weight ± 20 gm)",
+              "quantity": "500 gm",
+              "origin": "",
+              "description": "Fresh Carrots pre-packed for your convenience. Carrots are an excellent source of vitamin a and they help promote heart, eye, brain, skin and liver health. Best eaten raw for maximum health benefits.",
+              "price": 30,
+              "off": false,
+              "total_off": 8,
+              "available_item": 100
+            }
+          ]
+        },
+        "breakfast": {
+          "local_breakfast": {
+            "products_logo": "https://cdn.chaldal.net/_mpimage/local-breakfast?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27881&q=best&v=1&m=250&webp=1",
+            "items": [
+              {
+                "product_id": 20,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/regular-white-bread-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59219&q=low&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/regular-white-bread-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59219&q=low&v=1&w=600&webp=1",
+                "productz_name": "Regular White Bread",
+                "quantity": "500 gm",
+                "origin": "",
+                "description": "",
+                "price": 75,
+                "off": false,
+                "total_off": 8,
+                "available_item": 100
+              },
+              {
+                "product_id": 21,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/pran-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45365&q=low&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/pran-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45365&q=low&v=1&w=600&webp=1",
+                "productz_name": "PRAN Puffed Rice (Muri)",
+                "quantity": "250 gm",
+                "origin": "",
+                "description": "Foods provides a significant ratio of the body. So, buy pran puffed rice (muri) from chaldal to fill up your family needs. You can have it with a cup of tea. Mix it with a packet of chanachur, then enjoy watching movies. Net weight 250 gm. Brand name: Pran Food and Beverage Limited.",
+                "price": 35,
+                "off": false,
+                "total_off": 8,
+                "available_item": 100
+              }
+            ]
+          },
+          "cereals": {
+            "products_logo": "https://cdn.chaldal.net/_mpimage/cereals?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54462&q=best&v=1&m=250&webp=1",
+            "items": [
+              {
+                "product_id": 22,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/quaker-oats-poly-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47629&q=best&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/quaker-oats-poly-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47629&q=best&v=1&w=600&webp=1",
+                "productz_name": "Quaker Oats Poly",
+                "quantity": "500 gm",
+                "origin": "",
+                "description": "To fuel your body with the nourishment and nutrients, eat Quaker Oats Poly and buy it from chaldal. It is an American Food. So, it’s obviously a good food for boosting energy. And get a Jar free. Net weight 500 gm..",
+                "price": 256,
+                "off": false,
+                "total_off": 8,
+                "available_item": 100
+              },
+              {
+                "product_id": 23,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/nestle-koko-krunch-breakfast-chocolate-cereal-box-330-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58638&q=low&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/nestle-koko-krunch-breakfast-chocolate-cereal-box-330-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58638&q=low&v=1&w=600&webp=1",
+                "productz_name": "Nestlé KOKO KRUNCH Breakfast Chocolate Cereal Box",
+                "quantity": "330 gm",
+                "origin": "",
+                "description": "Whole Grain contains more dietary fiber, more nutrition.Source of Iron – Important for healthy red blood cells",
+                "price": 350,
+                "off": false,
+                "total_off": 8,
+                "available_item": 10
+              }
+            ]
+          },
+          "jam_spreads": {
+            "products_logo": "https://cdn.chaldal.net/_mpimage/jam-spreads?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23775&q=low&v=1&m=250&webp=1",
+            "items": [
+              {
+                "product_id": 24,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/milk-vita-butter-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46792&q=low&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/milk-vita-butter-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46792&q=low&v=1&w=600&webp=1",
+                "productz_name": "Milk Vita Butter",
+                "quantity": "200 gm",
+                "origin": "",
+                "description": "",
+                "price": 185,
+                "off": false,
+                "total_off": 8,
+                "available_item": 10
+              },
+              {
+                "product_id": 25,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/nutella-hazelnut-cocoa-spread-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47946&q=low&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/nutella-hazelnut-cocoa-spread-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47946&q=low&v=1&w=600&webp=1",
+                "productz_name": "Nutella Hazelnut Cocoa Spread",
+                "quantity": "400 gm",
+                "origin": "",
+                "description": "Nutella has an authentic taste of hazelnuts and cocoa and its unique creaminess intensifies the flavor. It is so delicious that even a small amount is highly satisfying: 15g/1 tbsp of Nutella spread on bread is enough to guarantee an unbeatable taste and a pleasurable experience.",
+                "price": 549,
+                "off": false,
+                "total_off": 8,
+                "available_item": 10
+              },
+              {
+                "product_id": 26,
+                "img_thumb": "https://cdn.chaldal.net/_mpimage/hersheys-chocolate-syrup-680-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46008&q=low&v=1&m=400&w=200&webp=1",
+                "img_url": "https://cdn.chaldal.net/_mpimage/hersheys-chocolate-syrup-680-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46008&q=low&v=1&w=600&webp=1",
+                "productz_name": "Hershey's Chocolate Syrup",
+                "quantity": "680 gm",
+                "origin": "",
+                "description": "Hershey’s chocolate syrup tastes great with ice cream, desserts, milk and sandwiches. It has the genuine chocolate flavor. It is highly tasty with milk. Brand: Hershey’s. Net weight 680 gm.",
+                "price": 420,
+                "off": false,
+                "total_off": 8,
+                "available_item": 10
+              }
+            ]
+          }
+        }
+      }
+    },
+    "home_cleaning": {
+      "air_fresheners": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/air-fresheners?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35234&q=best&v=1&m=250&webp=1"
+      },
+      "laundry": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/laundry?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35521&q=low&v=1&m=250&webp=1"
+      },
+      "pest_control": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/pest-control?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35518&q=best&v=1&m=250&webp=1"
+      },
+      "kitchen_accessories": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/laundry?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35521&q=low&v=1&m=250&webp=1"
+      },
+      "napkins_paperProducts": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/laundry?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35521&q=low&v=1&m=250&webp=1"
+      }
+    },
+    "office_products": {
+      "batteries": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/batteries?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28700&q=low&v=1&m=250&webp=1"
+      },
+      "writing_drawing": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/writing-drawing?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28701&q=low&v=1&m=250&webp=1"
+      },
+      "organizing": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/organizing?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29134&q=low&v=1&m=250&webp=1"
+      },
+      "printing": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/printing?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29194&q=low&v=1&m=250&webp=1"
+      }
+    },
+    "beauty_health": {
+      "health_care": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/health-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27472&q=low&v=1&m=250&webp=1"
+      },
+      "personal_care": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/personal-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35223&q=low&v=1&m=250&webp=1"
+      }
+    },
+    "home_appliances": {
+      "light_electrical": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/lights-electrical?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59508&q=best&v=1&m=250&webp=1"
+      },
+      "tools_hardware": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/tools-hardware?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27895&q=best&v=1&m=250&webp=1"
+      },
+      "kitchen_appliances": {
+        "items": [],
+        "products_logo": "https://cdn.chaldal.net/_mpimage/kitchen-appliances?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29089&q=best&v=1&m=250&webp=1"
+      }
+    }
+  }
+}
